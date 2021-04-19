@@ -1,23 +1,27 @@
-# Hi, I'm Makenzie
+# Hi there, I'm Makenzie
 
-I'm looking forward to getting to know you! This document is not intended to replace or override the relationship and mutual understanding we will build as we work together. Its intention is to give you an idea of how I think and how I work.
+I'm looking forward to getting to know you! 
+
+It’s going to take a solid six weeks to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet people, go to meetings, write things down, and ask **all** the questions – especially about all those baffling acronyms and emoji.
+
+One of the working relationships we need to define is ours. The following is a user guide for me and how I work. This document is not intended to replace or override the relationship we will build as we work together. Its intention is to give you an idea of how I work, think, and lead.
 
 ## My role as a manager
 
 **TL;DR: I am here to make sure our team is successful, happy, and working on the things that are most important to help our customers, improve our product, and improve our business.**
 
-More granularly:
+I am here to make sure...
 
-1.  I am here to make sure you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
-2.  I am here to make sure our team is successful and pointed in the right direction. I am here to make sure our team is all aligned and pushing in the same direction.
-3.  I am here to make sure our team is getting what we need from other teams, and that other teams are getting what they need from us; I'm also here to help make sure we are working on the right things, which is not necessarily everything we're asked to do.
+1.  you are both successful and happy: I want you to improve your technical skills, grow your career, enjoy your work, and believe in both our team's and our company's mission.
+2.  our team is successful and pointed in the right direction moving together as One Team.
+3.  our team is getting what we need from other teams, and that other teams are getting what they need from us.
 4.  I write some code too!
 
-These are in approximate order of importance. If you are not successful and happy, our team is not successful (or happy). If our team is struggling, writing code will most likely not be my top priority.
+These are in approximate order of importance. If you are not successful and happy, our team is not successful (nor happy). If our team is struggling, writing code will most likely not be my top priority.
 
-Additionally: My job is _not_ to tell you exactly what to do and how to do it. It is also not to be the "official decision maker" for our team. When I asked some other people for feedback on this README, one asked about this point, and then said something I thought was poignant: "I am _accountable_ for the decisions the team makes, even if I’m not the one making them most of the time."
+## Clifton Strengths
 
-I might have thoughts on your code, and I expect you to have thoughts on mine. In the end, you own your code and if you have a good reason for doing something, you should do it.
+Restorative | Strategic | Relator | Learner | Analytical
 
 ## Feedback
 
